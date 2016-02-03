@@ -1,0 +1,15 @@
+main DEBUG st20048261.Runner - SYSTEM INTIALIZED
+main DEBUG st20048261.TwitterSentiment - tweetList is empty: false
+main INFO  st20048261.TwitterSentiment - Loaded SentiWord file
+main DEBUG st20048261.TwitterSentiment - Sentiment Rating Calculated
+main DEBUG st20048261.TwitterSentiment - Areas calculated
+main DEBUG st20048261.TwitterSentiment - General Area Sentiment Calculated
+main DEBUG st20048261.GUI - Components of the GUI initialized
+main DEBUG st20048261.TwitterSentiment - tweetList is empty: false
+main INFO  st20048261.TwitterSentiment - Loaded SentiWord file
+main DEBUG st20048261.TwitterSentiment - Sentiment Rating Calculated
+main DEBUG st20048261.TwitterSentiment - Areas calculated
+main DEBUG st20048261.TwitterSentiment - General Area Sentiment Calculated
+main DEBUG st20048261.GUI - Table of tweets filled
+main DEBUG st20048261.GUI - Chart generated and inserted into the GUI
+main DEBUG st20048261.Runner - SYSTEM CLOSED
